@@ -1,1 +1,1 @@
-This is my lab 3 for COGS 3
+This is my studyBuddy for COGS 3
